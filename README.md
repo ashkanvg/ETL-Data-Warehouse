@@ -6,10 +6,10 @@ This project is the final project for a database course completed in Spring 2021
 - **Database**: Schema and model for the relational database.
 - **Data Warehouse**: Additional data and scripts for the data warehouse.
 
-More information about the details of the project definition are available in Two Languages: English and Persian.
+More information about the details of the project definition is available in Two Languages: English and Persian.
 
-- **English**: simple etl project/Project Description (EN).pdf
-- **Persian**: simple etl project/Project Description (FA).pdf
+- **English**: `simple etl project/Project Description (EN).pdf`
+- **Persian**: `simple etl project/Project Description (FA).pdf`
 
 ## Repository Structure
 
@@ -80,7 +80,7 @@ The data warehouse is designed to store historical data for analytical purposes.
 
 ## Additional Information
 
-For more detailed instructions on running the project and the specifics of each script, refer to the `توضیحات.pdf` file included in the repository.
+For more detailed instructions on running the project and the specifics of each script, refer to the `ETL_File_Description (EN).pdf` or `ETL_File_Description (FA).pdf` files included in the `simple etl project/ETL`.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
