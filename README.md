@@ -6,13 +6,18 @@ This project is the final project for a database course completed in Spring 2021
 - **Database**: Schema and model for the relational database.
 - **Data Warehouse**: Additional data and scripts for the data warehouse.
 
+More information about the details of the project definition are available in Two Languages: English and Persian.
+
+- **English**: simple etl project/Project Description (EN).pdf
+- **Persian**: simple etl project/Project Description (FA).pdf
+
 ## Repository Structure
 
 - `ETL`:
   - **ETL.py**: Main script for ETL operations.
   - **create_library.py**: Script for creating the database schema.
   - **create_warehouse.py**: Script for creating the data warehouse schema.
-- `DATABASE`:
+- `Database`:
   - **schema.sql**: SQL script for creating the database schema.
   - **data_model.pdf**: Diagram of the database model.
 - `Data_Warehouse`:
